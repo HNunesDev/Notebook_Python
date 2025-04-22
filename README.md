@@ -1,2 +1,2 @@
-# Estudos_Python
-Repositório dedicado aos estudos relacionados a análise de dados utilizando a linguagem Python
+# Estudos_Ciencia
+Repositório dedicado aos estudos relacionados a ciencia de dados c/ Python
